@@ -8,4 +8,4 @@ Comes with 5 operations:
 * update_todo (PUT)- update To Do note with specified id (/todo/{id})
 * delete_todo (DELETE) - delte To Do note with specified id (/todo/{id})
 
-Notes are written to SQL lite database.
+Notes are written to SQLite database.
